@@ -7,11 +7,11 @@ make everyday work easier.
 
 ### Currently building
 
-**OpenClaw HUB** — a self-hosted interface that brings OpenClaw agents together,
+**[OpenClaw HUB](https://github.com/jobmaking/openclaw-hub)** — a self-hosted interface that brings OpenClaw agents together,
 with a web app and an optional Linux desktop client.
 
-The project is being prepared for public release. It is an independent community
-project, not an official OpenClaw product.
+The first community preview is available, with source code and installation guides.
+It is an independent community project, not an official OpenClaw product.
 
 ### What you'll find here
 
