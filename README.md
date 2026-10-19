@@ -1,16 +1,22 @@
-## Hi there 👋
+![Jaime OB — Building useful products with AI](assets/profile-banner.png)
 
-<!--
-**jobmaking/jobmaking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Jaime 👋
 
-Here are some ideas to get you started:
+I build practical digital products with the help of AI, focusing on tools that
+make everyday work easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently building
+
+**OpenClaw HUB** — a self-hosted interface that brings OpenClaw agents together,
+with a web app and an optional Linux desktop client.
+
+The project is being prepared for public release. It is an independent community
+project, not an official OpenClaw product.
+
+### What you'll find here
+
+- Useful tools and self-hosted software.
+- AI-assisted workflows and practical automation.
+- Lessons from building products and improving them through use.
+
+I prefer simple solutions, clear interfaces and sharing things that genuinely work.
